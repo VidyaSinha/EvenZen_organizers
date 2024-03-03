@@ -69,11 +69,13 @@ div {
 
 .explore {
     position: relative;
+    
     margin-top: 7px;
     display: inline-block;
     padding: 15px 40px;
     font-size: 18px;
     color: white;
+    text-decoration: none;
     background-color: rgb(90, 116, 133);
     border: none;
     outline: none;
